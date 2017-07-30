@@ -1,0 +1,1 @@
+include ':example', ':p1-annotations', ':p1-compiler', ':p1-core', ':p1-ec'
